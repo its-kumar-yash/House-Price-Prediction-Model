@@ -1,4 +1,4 @@
-# 🏠 IntelliEstate : House Price Prediction Model
+# 🏠 EstateExplorer : House Price Prediction Model
 
 ## ✨Project Overview
 The main goal of this project is to predict real estate prices for properties in Bangalore, India.
